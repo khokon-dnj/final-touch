@@ -33,6 +33,11 @@ h1{
     font-size: 45px;
     color: rgb(54,57,88);
 }
+h2{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(54,57,88);
+}
 .name-highlight{
     color: rgb(255,131,103);    
 }
@@ -48,7 +53,7 @@ img{
     color: white;
     border-radius: 5px;
 }
-.second-part{
+.about-area{
     height: 700px;
 }
 .second-width{
@@ -57,3 +62,43 @@ img{
     padding-left: 2%;
     float: left;
 }
+.working-area{
+    height: 700px;
+} 
+    
+.third-width{
+    width: 26%;
+    margin-left:4%;
+    padding-left: 2%;
+    float: left;
+}
+.work{
+    text-align: center;
+}
+.workflow{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 7px;
+    height: 60%;
+}
+
+.footer-sec{
+    
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+.footer-sec .gmail{
+    font-family: 'Cabin', sans-serif;
+    
+}
+.footer
+.icon{
+    text-align: center;
+}
+
+.icon img{
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+}
+
